@@ -1,0 +1,11 @@
+
+/** Mobile **/
+
+@media screen and (max-width: 767px){
+    .flex {
+        flex-direction: column;
+      }
+      .revCol {
+        flex-direction: column-reverse
+      }
+    }
